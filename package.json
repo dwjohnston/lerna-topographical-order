@@ -1,0 +1,11 @@
+{
+  "name": "lerna-topographical-order",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dwjohnston/lerna-topographical-order.git",
+  "author": "David Johnston <djohnston@whispir.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
