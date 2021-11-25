@@ -1,6 +1,6 @@
 # 
 
-This repo reproduces a gotcha with lerna lerna topology and the the `lerna run` command. 
+This repo reproduces a gotcha with lerna topology and the the `lerna run` command. 
 
 Github issue here: https://github.com/lerna/lerna/issues/3032
 
