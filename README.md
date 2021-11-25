@@ -7,7 +7,9 @@ This repo reproduces a gotcha with lerna lerna topology and the the `lerna run` 
 This is a standard lerna monorepo with three packages. 
 
 **@example/a** - A leaf dependency that needs to be compiled with typescript
+
 **@example/b** - Depends on `@example/a`, and does not need to be compiled. 
+
 **@example/c** - The top level application. Depends on `@example/b` - and is compiled and bundled with Webpack. 
 
 ## The problem 
